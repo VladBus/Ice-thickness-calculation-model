@@ -396,3 +396,12 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+# My Fortran Programm
+ice_thickness_calculation/data/data_temper_a_ini/*.tb
+ice_thickness_calculation/data/temper_a_ini/*.txt
+ice_thickness_calculation/data/thickness_ini/*.txt
+ice_thickness_calculation/result/mon_gst/*.gst
+ice_thickness_calculation/result/mon_res/*.res
+ice_thickness_calculation/result/press_type/*.txt
+*.exe
